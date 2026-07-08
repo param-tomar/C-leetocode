@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/param-tomar/C-leetocode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/param-tomar/C-leetocode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/param-tomar/C-leetocode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/param-tomar/C-leetocode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/param-tomar/C-leetocode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/param-tomar/C-leetocode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/param-tomar/C-leetocode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/param-tomar/C-leetocode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/param-tomar/C-leetocode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -40,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/param-tomar/C-leetocode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/param-tomar/C-leetocode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/param-tomar/C-leetocode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
