@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/param-tomar/C-leetocode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/param-tomar/C-leetocode/tree/master/0098-validate-binary-search-tree) |
+| [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
