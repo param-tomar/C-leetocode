@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/param-tomar/C-leetocode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/param-tomar/C-leetocode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
+| [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 ## Dynamic Programming
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/param-tomar/C-leetocode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/param-tomar/C-leetocode/tree/master/0056-merge-intervals) |
+| [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 ## Linked List
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/param-tomar/C-leetocode/tree/master/0098-validate-binary-search-tree) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
