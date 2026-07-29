@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/param-tomar/C-leetocode/tree/master/0896-monotonic-array) |
 ## Dynamic Programming
 |  |
 | ------- |
