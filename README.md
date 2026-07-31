@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/param-tomar/C-leetocode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/param-tomar/C-leetocode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/param-tomar/C-leetocode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/param-tomar/C-leetocode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/param-tomar/C-leetocode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/param-tomar/C-leetocode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/param-tomar/C-leetocode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 ## Linked List
 |  |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/param-tomar/C-leetocode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/param-tomar/C-leetocode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/param-tomar/C-leetocode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/param-tomar/C-leetocode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/param-tomar/C-leetocode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/param-tomar/C-leetocode/tree/master/0234-palindrome-linked-list) |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
