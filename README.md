@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/param-tomar/C-leetocode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/param-tomar/C-leetocode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
+| [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/param-tomar/C-leetocode/tree/master/0896-monotonic-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/param-tomar/C-leetocode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/param-tomar/C-leetocode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,4 +158,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
