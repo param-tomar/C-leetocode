@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/param-tomar/C-leetocode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/param-tomar/C-leetocode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/param-tomar/C-leetocode/tree/master/0189-rotate-array) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/param-tomar/C-leetocode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Array
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/param-tomar/C-leetocode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/param-tomar/C-leetocode/tree/master/0098-validate-binary-search-tree) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/param-tomar/C-leetocode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Counting Sort
 |  |
 | ------- |
@@ -180,4 +182,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/param-tomar/C-leetocode/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/param-tomar/C-leetocode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/param-tomar/C-leetocode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/param-tomar/C-leetocode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 <!---LeetCode Topics End-->
