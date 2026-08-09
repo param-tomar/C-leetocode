@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
+| [2595-number-of-even-and-odd-bits](https://github.com/param-tomar/C-leetocode/tree/master/2595-number-of-even-and-odd-bits) |
 ## Bitmask
 |  |
 | ------- |
