@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/param-tomar/C-leetocode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/param-tomar/C-leetocode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/param-tomar/C-leetocode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/param-tomar/C-leetocode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/param-tomar/C-leetocode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/param-tomar/C-leetocode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/param-tomar/C-leetocode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/param-tomar/C-leetocode/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/param-tomar/C-leetocode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/param-tomar/C-leetocode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 ## Counting Sort
