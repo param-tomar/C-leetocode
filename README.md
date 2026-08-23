@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/param-tomar/C-leetocode/tree/master/0896-monotonic-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/param-tomar/C-leetocode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/param-tomar/C-leetocode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/param-tomar/C-leetocode/tree/master/0328-odd-even-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/param-tomar/C-leetocode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/param-tomar/C-leetocode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/param-tomar/C-leetocode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/param-tomar/C-leetocode/tree/master/0142-linked-list-cycle-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/param-tomar/C-leetocode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
 | ------- |
