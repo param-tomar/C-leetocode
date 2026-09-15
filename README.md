@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/param-tomar/C-leetocode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/param-tomar/C-leetocode/tree/master/0896-monotonic-array) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/param-tomar/C-leetocode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/param-tomar/C-leetocode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/param-tomar/C-leetocode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/param-tomar/C-leetocode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/param-tomar/C-leetocode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Linked List
 |  |
 | ------- |
