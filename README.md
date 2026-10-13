@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/param-tomar/C-leetocode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/param-tomar/C-leetocode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/param-tomar/C-leetocode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/param-tomar/C-leetocode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/param-tomar/C-leetocode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/param-tomar/C-leetocode/tree/master/0283-move-zeroes) |
 | [0526-beautiful-arrangement](https://github.com/param-tomar/C-leetocode/tree/master/0526-beautiful-arrangement) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/param-tomar/C-leetocode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/param-tomar/C-leetocode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/param-tomar/C-leetocode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/param-tomar/C-leetocode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/param-tomar/C-leetocode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/param-tomar/C-leetocode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/param-tomar/C-leetocode/tree/master/0561-array-partition) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/param-tomar/C-leetocode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Linked List
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/param-tomar/C-leetocode/tree/master/0058-length-of-last-word) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/param-tomar/C-leetocode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/param-tomar/C-leetocode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
